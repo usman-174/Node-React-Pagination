@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "title": "Do something nice for someone I care about",
+    "completed": true,
+    "userId": 26
+  },
+  {
+    "id": 2,
+    "title": "Memorize the fifty states and their capitals",
+    "completed": false,
+    "userId": 48
+  },
+  { "id": 3, "title": "Watch a classic movie", "completed": false, "userId": 4 },
+  {
+    "id": 4,
+    "title": "Contribute code or a monetary donation to an open-source software project",
+    "completed": false,
+    "userId": 48
+  },
+  { "id": 5, "title": "Solve a Rubik's cube", "completed": false, "userId": 31 },
+  {
+    "id": 6,
+    "title": "Bake pastries for me and neighbor",
+    "completed": false,
+    "userId": 39
+  },
+  {
+    "id": 7,
+    "title": "Go see a Broadway production",
+    "completed": false,
+    "userId": 32
+  },
+  {
+    "id": 8,
+    "title": "Write a thank you letter to an influential person in my life",
+    "completed": true,
+    "userId": 13
+  },
+  {
+    "id": 9,
+    "title": "Invite some friends over for a game night",
+    "completed": false,
+    "userId": 47
+  },
+  {
+    "id": 10,
+    "title": "Have a football scrimmage with some friends",
+    "completed": false,
+    "userId": 19
+  },
+  {
+    "id": 11,
+    "title": "Text a friend I haven't talked to in a long time",
+    "completed": false,
+    "userId": 39
+  },
+  { "id": 12, "title": "Organize pantry", "completed": true, "userId": 39 },
+  {
+    "id": 13,
+    "title": "Buy a new house decoration",
+    "completed": false,
+    "userId": 16
+  },
+  {
+    "id": 14,
+    "title": "Plan a vacation I've always wanted to take",
+    "completed": false,
+    "userId": 28
+  },
+  { "id": 15, "title": "Clean out car", "completed": false, "userId": 33 },
+  {
+    "id": 16,
+    "title": "Draw and color a Mandala",
+    "completed": true,
+    "userId": 24
+  },
+  {
+    "id": 17,
+    "title": "Create a cookbook with favorite recipes",
+    "completed": false,
+    "userId": 1
+  },
+  {
+    "id": 18,
+    "title": "Bake a pie with some friends",
+    "completed": false,
+    "userId": 1
+  },
+  { "id": 19, "title": "Create a compost pile", "completed": true, "userId": 5 },
+  {
+    "id": 20,
+    "title": "Take a hike at a local park",
+    "completed": true,
+    "userId": 43
+  },
+  {
+    "id": 21,
+    "title": "Take a class at local community center that interests you",
+    "completed": false,
+    "userId": 22
+  },
+  {
+    "id": 22,
+    "title": "Research a topic interested in",
+    "completed": false,
+    "userId": 4
+  },
+  {
+    "id": 23,
+    "title": "Plan a trip to another country",
+    "completed": true,
+    "userId": 37
+  },
+  {
+    "id": 24,
+    "title": "Improve touch typing",
+    "completed": false,
+    "userId": 45
+  },
+  { "id": 25, "title": "Learn Express.js", "completed": false, "userId": 49 },
+  { "id": 26, "title": "Learn calligraphy", "completed": false, "userId": 50 },
+  {
+    "id": 27,
+    "title": "Have a photo session with some friends",
+    "completed": false,
+    "userId": 14
+  },
+  { "id": 28, "title": "Go to the gym", "completed": false, "userId": 15 },
+  {
+    "id": 29,
+    "title": "Make own LEGO creation",
+    "completed": false,
+    "userId": 30
+  },
+  { "id": 30, "title": "Take cat on a walk", "completed": false, "userId": 15 },
+  {
+    "id": 31,
+    "title": "Find a charity and donate to it",
+    "completed": true,
+    "userId": 35
+  },
+  {
+    "id": 32,
+    "title": "Donate to local food bank",
+    "completed": true,
+    "userId": 40
+  },
+  {
+    "id": 33,
+    "title": "Uninstall unused apps from devices",
+    "completed": false,
+    "userId": 36
+  },
+  {
+    "id": 34,
+    "title": "Write a handwritten letter to somebody",
+    "completed": false,
+    "userId": 38
+  },
+  {
+    "id": 35,
+    "title": "Fill out a basketball bracket",
+    "completed": false,
+    "userId": 34
+  },
+  { "id": 36, "title": "Do yoga", "completed": false, "userId": 35 },
+  {
+    "id": 37,
+    "title": "Make a scrapbook with pictures of favorite memories",
+    "completed": false,
+    "userId": 9
+  },
+  {
+    "id": 38,
+    "title": "Have a bonfire with close friends",
+    "completed": true,
+    "userId": 8
+  },
+  { "id": 39, "title": "Go for a run", "completed": false, "userId": 16 },
+  {
+    "id": 40,
+    "title": "Host a movie marathon with some friends",
+    "completed": false,
+    "userId": 47
+  },
+  {
+    "id": 41,
+    "title": "Go see a movie in theaters with a few friends",
+    "completed": true,
+    "userId": 12
+  },
+  { "id": 42, "title": "Wash car", "completed": false, "userId": 15 },
+  {
+    "id": 43,
+    "title": "Patronize a local independent restaurant",
+    "completed": false,
+    "userId": 37
+  },
+  {
+    "id": 44,
+    "title": "Watch a Khan Academy lecture on a subject of choosing",
+    "completed": false,
+    "userId": 38
+  },
+  { "id": 45, "title": "Learn Javascript", "completed": false, "userId": 16 },
+  {
+    "id": 46,
+    "title": "Volunteer at a local animal shelter",
+    "completed": false,
+    "userId": 39
+  },
+  {
+    "id": 47,
+    "title": "Volunteer at local food pantry",
+    "completed": false,
+    "userId": 32
+  },
+  {
+    "id": 48,
+    "title": "Start a book I've never gotten around to reading",
+    "completed": false,
+    "userId": 31
+  },
+  { "id": 49, "title": "Mow neighbor's lawn", "completed": false, "userId": 14 },
+  { "id": 50, "title": "Start a band", "completed": false, "userId": 13 }
+]
